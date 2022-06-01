@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"itson.mx.ApiDeezer.interfaces"},{"l":"itson.mx.ApiDeezer.utilerias"},{"l":"mx.itson.ApiDeezer.entidades"},{"l":"mx.itson.ApiDeezer.vistas"}]
